@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635095784901",
+    "firebase_url": "https://appbancofirebase-ab889.firebaseio.com",
+    "project_id": "appbancofirebase-ab889",
+    "storage_bucket": "appbancofirebase-ab889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635095784901:android:520a0f5172f2b8b8a37fac",
+        "android_client_info": {
+          "package_name": "com.example.appbancofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635095784901-sgss7ri45mou9sbnseoda982u15g52m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3s2-tWxnw2LxzTDvda4Pzvg-Gf5VjmFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635095784901-sgss7ri45mou9sbnseoda982u15g52m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
